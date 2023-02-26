@@ -1,2 +1,3 @@
 # HamBurger-Menu-Website
-Created as Part of Learning Brad-Traversy
+Created as Part of Learning Brad-Traversy's HTML/CSS Course
+
