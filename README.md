@@ -1,10 +1,6 @@
-# HamBurger-Menu-Website
-
-Created as Part of Learning Brad-Traversy's HTML/CSS Course
-
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Presenation-Website(Mini-Project)</h1>
+<h1 align="center">HamBurger-Menu-Website</h1>
 
 <div align="center">
    SRC:Modern HTML,CSS by Brad Traversy
