@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://chilly-169-table.github.io/Presenation-Project/#page-1">
+    <a href="https://chilly-169-table.github.io/HamBurger-Menu-Website/">
       Demo
     </a>
   </h3>
@@ -34,9 +34,7 @@ You can click on the Demo Link on top of this ReadME.
 
 -   What was your experience?
 
-This was created as part of my Front-End Learning Journey, specifically while making this website I learnt KeyFrame Animations and Transistions.
-Animation and @keyframe lets you define, let's say for a certain number of properties the default values defined can be changed which is what leads to the Animation effect where-in Transistion property helps you a transisition occcurs i.e when there is a change in values of properties from one-value to another which can be achieved using pseudo-selectors it defines how these change occcurs but not what change occurs.
-also setting overflow property of certain container-box to none will make sure the content just inside the container takes up the whole page.
+
 
 -   What have you learned/improved?
 
