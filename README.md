@@ -30,13 +30,11 @@
 
 -   Where can I see your demo?
 
-You can click on the Demo Link on top of this ReadME.
+    You can click on the Demo Link on top of this ReadME.
 
--   What was your experience?
-
-
-
--   What have you learned/improved?
+- What have you learned/improved?
+  The Only major issue that needed to dealt with was making using of a div to appear like a appear like a hamburger, where I used ::before and ::after pseudo classes. The Middle line in the Hamburger menu was designed using a div by styling it to make sure it appears like a line and then writing a before and after pseduo class for it will make sure a similar line appears above and below it and an animation linked to it that changes the line shape.
+ Behind the div though is a actually checkbox type input, where a condition can be defined and things can be triggered when it is checked. which is the what leads to overlay display appear in the website.It visibility is set to none in all cases so that the Hamburger can be displayed on top of it and creates the illusion that pressing the Hamburger is what that is leading to the overlay display appear. 
 
 ### Built With
 
